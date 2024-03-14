@@ -1,0 +1,119 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(207, 204, 204);
+    text-align: center;
+
+
+}
+
+
+body h1 {
+    margin-top: 13%;
+    border: #383939;
+}
+
+body h1,
+h2 {
+    background-color: rgba(255, 255, 255, 0.432);
+    margin-right: 33%;
+    margin-left: 33%;
+
+}
+
+body p {
+    margin-left: 33%;
+    margin-right: 33%;
+    background-color: #383939;
+
+}
+
+#listtype li {
+    list-style: none;
+}
+
+#listtype {
+    margin-bottom: 23%;
+    background-color: #383939;
+    margin-left: 33%;
+    margin-right: 33%;
+    
+}
+
+
+#MENUHEADER {
+    margin-bottom: 13%;
+}
+
+#MENUHEADER li {
+    display: inline;
+    margin-right: 30px;
+}
+
+#MENUHEADER li a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    padding: 1% 9% 1%;
+    background-color: #878787;
+    color: #fff;
+}
+
+#MENUHEADER li a:hover {
+    background-color: #383939;
+    margin-top: -3%;
+}
+
+h3 {
+    padding: 1% 1%;
+    margin: 3%;
+    margin-top: 100%;
+}
+
+#MENUFOOTER h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    background-color: #878787;
+    color: #fff;
+}
+
+
+#MENUFOOTER li {
+    display: inline;
+
+}
+
+#MENUFOOTER li a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    padding: 1% 9% 1%;
+
+    background-color: #878787;
+    color: #fff;
+
+    ;
+}
+
+#MENUFOOTER li a:hover {
+    background-color: #383939;
+    margin-top: -3px;
+}
+
+#MENUFOOTER h3 {
+    margin-top: 15%;
+    position: relative;
+}
+
+#MENUFOOTER h3:hover {
+    background-color: #383939;
+
+}
+
+#MENUFOOTER a {
+    text-decoration: none;
+    color: white;
+}
